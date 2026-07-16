@@ -2,6 +2,7 @@
 
 
 Build with Vite, "controller logic" extracted out of the UI view components into isolated TypeScript/JavaScript modules (like React Hooks or Vue Composables). This separates data fetching, validation, and business logic from presentation.
+
 Landing (/) — Marketing hero with the REDPARSON brand, crimson/orange gradient, animated feature cards
 
 Dashboard (/dashboard) — Project stats, FPS gauge, performance chart, recent projects — all live data
@@ -10,8 +11,4 @@ Dashboard (/dashboard) — Project stats, FPS gauge, performance chart, recent p
 
 Asset Library (/assets) — Searchable/filterable grid by type (texture/mesh/audio/material/script/prefab)
 
-AI Generation Lab (/ai-lab) — Prompt input with pluggable provider selector (GPT-4o, Claude, Gemini, Custom)
-
-Mode Picker (code/shader/scene/material/level), simulated streaming output in a terminal-style block, generation history CI/CD
-
-Pipeline (/pipeline) — Visual flowchart of the full architectural grid (CI/CD → Sandbox Zones → Asset Registry → Safety Bounds → Safe Render → Active Viewport), kanban sprint board, workflow import/export Backend: Express API with PostgreSQL, all 7 route groups, modular AI provider registry, physics-audio sync, 4K resolution support — seeded with 3 projects, 10 assets, 2 scenes, 15 performance logs.
+AI Generation Lab (/ai-lab) — Prompt input with pluggable provider selector (GPT-4o, Claude, Gemini, Custom), Mode Picker (code/shader/scene/material/level), simulated streaming output in a terminal-style block, generation history CI/CD Pipeline (/pipeline) — Visual flowchart of the full architectural grid (CI/CD → Sandbox Zones → Asset Registry → Safety Bounds → Safe Render → Active Viewport), kanban sprint board, workflow import/export Backend: Express API with PostgreSQL, all 7 route groups, modular AI provider registry, physics-audio sync, 4K resolution support — seeded with 3 projects, 10 assets, 2 scenes, 15 performance logs.

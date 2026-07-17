@@ -1,4 +1,4 @@
-# Game-Engine-Core-Sample 
+# Game-Engine-Core
 
 /*Build with Vite, "controller logic" extracted out of the UI view components into isolated TypeScript/JavaScript modules (like React Hooks or Vue Composables). This separates data fetching, validation, and business logic from presentation.*/
 

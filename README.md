@@ -118,7 +118,7 @@ Centralized asset management.
 
 ## AI Generation Lab (`/ai-lab`)
 
-Integrated AI workspace for generating engine assets and code.
+Integrated AI workspace for generating engine assets and code through a pipeline
 
 ### Supported Providers
 
@@ -145,14 +145,12 @@ Integrated AI workspace for generating engine assets and code.
 
 ---
 
-## CI/CD Pipeline (`/pipeline`)
-
-Visual representation of the engine development workflow.
+Visual representation of the engine development workflow
 
 ### Architecture Flow
-
 ```
-CI/CD
+
+Pipeline
    ↓
 Sandbox Zones
    ↓
@@ -216,12 +214,11 @@ The project ships preloaded with:
 - Material editing
 - Real-time rendering statistics
 - Asset management
-- AI-assisted content generation
+- AI-assisted content generating pipeline
 - Performance analytics
 - Modular architecture
 - REST backend
 - PostgreSQL persistence
-- CI/CD visualization
 - 4K rendering support
 
 ---
@@ -289,7 +286,7 @@ Game-Engine-Core-Sample/
 - Loose coupling
 - Modular architecture
 - Maintainable codebase
-- AI-first workflows
+- AI-first tightly-coupled workflows
 - Production-ready backend
 - Real-time rendering
 - Extensible provider system
@@ -297,7 +294,7 @@ Game-Engine-Core-Sample/
 
 ---
 
-# Future Roadmap
+# Future Roadmap Of A Pre-processor, A Phase
 
 - Multiplayer collaboration
 - ECS (Entity Component System)

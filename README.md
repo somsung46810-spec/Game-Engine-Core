@@ -8,7 +8,7 @@ A modern game engine starter platform built with **Vite**, featuring a modular a
 
 Game-Engine-Core-Sample is designed as a production-ready foundation for creating browser-based game engines, interactive 3D applications, AI-assisted content generation, and asset management workflows.
 
-The project combines modern frontend technologies, a high-performance Three.js editor, AI-assisted generation tools, a backend API, and a complete CI/CD visualization pipeline into a unified development environment.
+The project combines modern frontend technologies, a high-performance Three.js editor, AI-assisted generation tools, and backend API
 
 ---
 

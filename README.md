@@ -65,7 +65,7 @@ A full WebGL editor powered by **Three.js**.
 - Cube creation
 - Sphere creation
 - Light placement
-- Physics simulation
+- Physics
 - Collision detection
 - Web Audio API integration
 - Collision sounds mapped to impact intensity

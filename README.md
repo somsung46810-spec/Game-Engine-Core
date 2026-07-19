@@ -6,7 +6,7 @@ A modern game engine starter platform built with **Vite**, featuring a modular a
 
 ## Overview
 
-Game-Engine-Core-Sample is designed as a production-ready foundation for creating browser-based game engines, interactive 3D applications, AI-assisted content generation, and asset management workflows.
+Game-Engine-Core is designed as a production-ready foundation for creating browser-based game engines, interactive 3D applications, AI-assisted content generation, and asset management workflows.
 
 The project combines modern frontend technologies, a high-performance Three.js editor, AI-assisted generation tools, and backend API
 
@@ -118,7 +118,7 @@ Centralized asset management.
 
 ## AI Generation Lab (`/ai-lab`)
 
-Integrated AI workspace for generating engine assets and code through a pipeline
+Integrated AI workspace, generates engine assets and coding pipeline
 
 ### Supported Providers
 
@@ -209,12 +209,12 @@ The project ships preloaded with:
 - Three.js rendering
 - WebGL viewport
 - OrbitControls
-- Physics simulation
+- Physics 
 - Audio collision feedback
 - Material editing
 - Real-time rendering statistics
 - Asset management
-- AI-assisted content generating pipeline
+- AI-assisted content generation
 - Performance analytics
 - Modular architecture
 - REST backend
@@ -252,7 +252,7 @@ The project ships preloaded with:
 # Project Structure
 
 ```
-Game-Engine-Core-Sample/
+Game-Engine-Core/
 │
 ├── src/
 │   ├── components/
@@ -283,10 +283,10 @@ Game-Engine-Core-Sample/
 # Design Goals
 
 - High performance
-- Loose coupling
+- Loose coupling view controller
 - Modular architecture
 - Maintainable codebase
-- AI-first tightly-coupled workflows
+- AI-first workflows
 - Production-ready backend
 - Real-time rendering
 - Extensible provider system
@@ -294,7 +294,7 @@ Game-Engine-Core-Sample/
 
 ---
 
-# Future Roadmap Of A Pre-processor, A Phase
+# Future Roadmap From Pre-processed Phase
 
 - Multiplayer collaboration
 - ECS (Entity Component System)

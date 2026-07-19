@@ -286,6 +286,8 @@ Game-Engine-Core/
 
 - High performance
 - Modular architecture
+- Separation of concerns 
+- Loose coupling
 - Maintainable codebase
 - AI-first workflows
 - Production-ready backend

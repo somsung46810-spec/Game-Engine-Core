@@ -1,12 +1,8 @@
+/*CLASS FILE*/
+
 # Game-Engine-Core
 
-#using https://github.com/somsung46810-spec/pivio.ai
-
 /*build with Vite, "controller logic" extracted out of the UI view components into isolated TypeScript/JavaScript modules (like React Hooks or Vue Composables). This separates data fetching, validation, and business logic from presentation.*/
-
-Landing (/) — Marketing hero with the REDPARSON brand, crimson/orange gradient, animated feature cards
-
-Dashboard (/dashboard) — Project stats, FPS gauge, performance chart, recent projects — all live data
 
 3D Editor (/editor) — Three.js WebGL viewport with OrbitControls, drag-and-drop objects (cube/sphere/light), physics, Web Audio API collision sounds (frequency mapped from impact intensity), real-time FPS/draw calls/triangle counters, material editor (color, roughness, metalness, wireframe), performance logging to the API
 

@@ -1,8 +1,6 @@
 # /CLASS FILE/
 
-## Game-Engine-Core
-
-/build with Vite, "controller logic" extracted out of the UI view components into isolated TypeScript/JavaScript modules (like React Hooks or Vue Composables). This separates data fetching, validation, and business logic from presentation./
+Game-Engine-Core /build with Vite, "controller logic" extracted out of the UI view components into isolated TypeScript/JavaScript modules (like React Hooks or Vue Composables). This separates data fetching, validation, and business logic from presentation./
 
 ## 3D Editor 
 
